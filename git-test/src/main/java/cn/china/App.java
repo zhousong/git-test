@@ -13,7 +13,10 @@ public class App {
     }
 
     public static void helloGit(){
+        System.out.println("hello");
         System.out.println("Hello Git.");
     }
+
+
 }
 
